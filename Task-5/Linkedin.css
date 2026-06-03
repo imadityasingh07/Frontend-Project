@@ -1,0 +1,19 @@
+.but{
+background-color: rgb(10,102,194);
+color: white;
+width: 222px;
+height: 39px;
+border-width: 0px;
+border-radius: 22px;
+cursor: pointer;
+margin-right: 5px;
+}
+.clc{
+  background-color: white;
+  color: blue;
+  width: 111px;
+  height: 37px;
+  border-width: 1px;
+  border-radius: 39px;
+  cursor: pointer;
+}

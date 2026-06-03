@@ -1,0 +1,30 @@
+a{
+  color: rgb(0,113,133);
+}
+.b{
+ color: rgb(0, 0, 0);
+}
+.c{
+  color: rgb(0,118,0);
+}
+.d{
+color: black;
+}
+.e{
+ background-color: rgb(255,216,20);
+ color: black;
+ width: 119px;
+ height: 29px;
+ cursor: pointer;
+ margin-right: 9px;
+ border: none;
+ border-radius: 15px;
+}
+.f{
+ background-color: rgb(255,164,28);
+  color: black;
+  width: 119px;
+  height: 29px;
+  border: none;
+  border-radius: 15px;
+}

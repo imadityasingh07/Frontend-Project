@@ -1,0 +1,74 @@
+body {
+  background: orange;
+  color: white;
+  padding: 20px;
+}
+
+.box {
+  background: white;
+  color: black;
+  padding: 15px;
+  margin-bottom: 20px;
+  width: 400px;
+}
+
+.tahoma {
+  font-family: Tahoma;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.arial-deals {
+  font-family: Arial;
+}
+
+.arial-deals h1 {
+  margin: 0;
+  font-size: 40px;
+}
+
+.arial-deals p {
+  color: red;
+  font-style: italic;
+  font-size: 24px;
+}
+
+.course {
+  font-family: Verdana;
+}
+
+.course h2 {
+  margin-bottom: 5px;
+}
+
+.course span {
+  color: gray;
+}
+
+.course p {
+  width: 300px;
+  line-height: 25px;
+}
+
+.course button {
+  background: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.business {
+  font-family: Arial;
+  text-align: center;
+}
+
+.business h2 {
+  font-size: 32px;
+}
+
+.business a {
+  color: blue;
+  text-decoration: none;
+}

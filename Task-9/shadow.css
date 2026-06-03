@@ -1,0 +1,27 @@
+body{
+  background-color: firebrick;
+  font-family: Arial;
+  padding: 40px;
+}
+
+.shadow-btn{
+  background-color: green;
+  color: white;
+
+  border: none;
+
+  font-size: 32px;
+
+  padding: 15px 30px;
+
+  cursor: pointer;
+
+  box-shadow: 5px 5px 10px gray;
+}
+
+.shadow-btn:active{
+  margin-top: 5px;
+  margin-left: 5px;
+
+  box-shadow: none;
+}
