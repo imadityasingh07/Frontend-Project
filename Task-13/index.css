@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+
+.img-rounded {
+  width: 200px;
+  border-radius: 15px;
+  display: block;
+  margin-bottom: 30px;
+}
+
+
+.img-square {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  margin-bottom: 30px;
+}
+
+
+.img-circle {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  display: block;
+}
